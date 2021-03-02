@@ -12,7 +12,7 @@ The foundations are there for a quick start but you should adapt it to a way tha
 
 ## Structure
 
-```js
+```
 CLIENT_OR_COMPANY/
 ├─ Company/
 │  ├─ _Admin/
