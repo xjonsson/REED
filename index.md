@@ -111,6 +111,8 @@ The key is to pick something that makes sense to you and to stay consistent.
 
 ### _Project
 
+![REED-_Project](public/images/REED-_Project.png)
+
 Everything related to the **project**, this should be available to all people in the team, and managing and running the team effectively.
 
 - _Notes - That have not been organized yet
@@ -138,6 +140,8 @@ Why not keep all things in the project **Resources** folder?
 - We also prevent team members from storing the same files (often large) in multiple places
 
 ### 01_Research
+
+![REED-01_Research](public/images/REED-01_Research.png)
 
 This is a working folder for everything you need to find out, think of it as:
 - Things you know
@@ -204,6 +208,8 @@ Whenever possible you should be creating with data, this is where the data sampl
 The user stories you are working from, "As X i want to do Y so that i can Z". If your working in a more feature drive environment just change the name of the folder.
 
 ### 02_Explore / Experiment
+
+![REED-02_Explore](public/images/REED-02_Explore.png)
 
 This is a working folder for everything you want to try, or think could work:
 - Inspiration
@@ -291,6 +297,8 @@ If you use an experiments method use this folder instead
 
 ### 03_Experience
 
+![REED-03_Experience](public/images/REED-03_Experience.png)
+
 This is the working folder for what you are building:
 - Think of this as your master / live folder
 - This should only include designs or versions which have been validated
@@ -373,6 +381,8 @@ Where do you put **Code**?
 - Production ready, compiled and zipped builds are stored in the delivery folder 
 
 ### 04_Delivery
+
+![REED-04_Delivery](public/images/REED-04_Delivery.png)
 
 **This is your output folder, never work on files in this folder**
 Everything in here should be the latest version of all the other work you have done.
