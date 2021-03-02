@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^17.4.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "name": "reed",
+  "description": "An opinionated project folder structure for modern teams trying to build cool things. Works for Research, UX, Design, Dev and Project Management for freelancers or employees.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjonsson/REED.git"
+  },
+  "keywords": [
+    "Research",
+    "Exploration",
+    "Experimentation",
+    "Design",
+    "Folder",
+    "Structure"
+  ],
+  "author": "Nick Jonsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjonsson/REED/issues"
+  },
+  "homepage": "https://github.com/xjonsson/REED#readme"
+}
